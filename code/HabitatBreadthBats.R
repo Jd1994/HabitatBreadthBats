@@ -1,4 +1,7 @@
 #HabitatBreadthBats
 #Carballo-Morales et al. 2023
 
-read.csv("raw_data/AppendixS1.csv")
+#package required
+
+#raw data
+read.csv("raw_data/AppendixS1.csv") ## HB, mass, TG, and ER raw data
